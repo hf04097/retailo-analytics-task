@@ -4,4 +4,4 @@ For sql queries, [sql server management studio ](https://docs.microsoft.com/en-u
 
 For each question a seperate .sql file is created with the naming format like 'retailo_q1' where 1 represents the number of the question.
 
-For better visiblity **please** view the Retailo-Analytics Assignment filled (solution).xlsx [here](http:/https://docs.google.com/spreadsheets/d/1PLbwJFIabCwrJsmtoBICbGXGjjcMTYIs/edit?usp=sharing&ouid=103392334977537341573&rtpof=true&sd=true/ "here") . Converting from google sheets to excel file messed up the formatting.
+For better visiblity **please** view the Retailo-Analytics Assignment filled (solution).xlsx [here](https://docs.google.com/spreadsheets/d/1PLbwJFIabCwrJsmtoBICbGXGjjcMTYIs/edit?usp=sharing&ouid=103392334977537341573&rtpof=true&sd=true "here") . Converting from google sheets to excel file messed up the formatting.
